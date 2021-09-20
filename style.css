@@ -1,0 +1,30 @@
+
+        h1{
+            color:darkblue
+            
+        }
+
+    
+       
+
+        .header{
+            display:flex;
+            background-color: aqua;
+            justify-content: space-between;
+        }
+
+        .grid{
+            display: flex;
+            justify-content: space-evenly;
+        
+        }
+        
+        .footer{
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        
+        
+
+
